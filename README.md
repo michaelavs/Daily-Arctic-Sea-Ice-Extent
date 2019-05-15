@@ -8,9 +8,8 @@ The NSIDC MyArcticTool is designed for _users_ to be able to _purpose_.
 
 _(Choose one of the following then delete this message)_
 
-* This code is fully supported by NSIDC. Please submit issues and pull requests for timely consideration.
-* This code has limited support from NSIDC. You are welcome to submit issues and pull requests but the response may be limited.
-* This code is unsupported. You are welcome to submit issues and pull requests for the benefit of other users.
+* This repository is fully supported by NSIDC. If you discover any problems or bugs, please submit an Issue. If you would like to contribute to this repository, you may fork the repository and submit a pull request. 
+* This repository is not actively supported by NSIDC but we welcome issue submissions and pull requests in order to foster community contribution.
 
 See the [LICENSE](LICENSE) for details on permissions and warranties. Please contact nsidc@nsidc.org for more information.
 
