@@ -1,6 +1,6 @@
 **Note:** _Modify this README as appropriate. If this is a NASA-funded project, edit the LICENSE and remove the Copyright notice at the top. Then remove this Note and check in the changes to your repository._
 
-![NSIDC logo](/images/NSIDC_logo_2018_poster-1.png =100)
+![NSIDC logo](/images/NSIDC_logo_2018_poster-1.png =100x)
 
 
 # NSIDC MyArcticTool
