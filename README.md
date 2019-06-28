@@ -9,7 +9,7 @@ The NSIDC MyArcticTool is designed for _users_ to be able to _purpose_.
 
 ## Level of Support
 
-_(Choose one of the following then delete this message)_
+_(Choose one of the following bullets to describe USO Level of Support, then delete this instructional message along with the unchosen support bullet)_
 
 * This repository is fully supported by NSIDC. If you discover any problems or bugs, please submit an Issue. If you would like to contribute to this repository, you may fork the repository and submit a pull request. 
 * This repository is not actively supported by NSIDC but we welcome issue submissions and pull requests in order to foster community contribution.
