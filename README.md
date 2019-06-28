@@ -2,7 +2,7 @@
 
 ![NSIDC logo](/images/NSIDC_logo_2018_poster-1.png)
 
-Can donna edit??
+
 # NSIDC MyArcticTool
 
 The NSIDC MyArcticTool is designed for _users_ to be able to _purpose_.
