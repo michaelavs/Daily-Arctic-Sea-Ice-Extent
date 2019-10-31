@@ -1,9 +1,7 @@
-**Note:** _Modify this README as appropriate. If this is a NASA-funded project, edit the LICENSE and remove the Copyright notice at the top. Then remove this Note and check in the changes to your repository._
-
 ![NSIDC logo](/images/NSIDC_logo_2018_poster-1.png)
 
 
-# NSIDC MyArcticTool
+# NSIDC Daily Arctic Sea Ice Extent Tool
 
 The NSIDC Daily Arctic Sea Ice Extent tool is designed for users to be able to Visualize MASIE, Sea Ice Index, and Near Real Time CDR data sets.
 
