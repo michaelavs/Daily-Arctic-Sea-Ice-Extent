@@ -28,7 +28,7 @@ After downloading and formatting the code for your machine, simply input the dat
 * It is very important to ensure all data set sources are in one directory and that the code is set to see that directory. 
 * This code was created using a Windows machine, so there may be some minor formatting changes to be made like direction of slashes in the directory definition. 
 * The date range input format is variable, ensure you are using the correct format for the correct data set. MASIE and NRT CDR use mm/dd/yyyy format while Sea Ice Index uses yyyy-mm-dd. 
-NOTE: for MASIE and NRT CDR, for single digit months or days, you do not need to add a two digit value; for example May 1st, 20015 would be written "5/1/2015"
+*NOTE: for MASIE and NRT CDR, single digit months and days do not need a two digit value. For example May 1st, 2015 would be written "5/1/2015"*
 * The Masie data set has known 'holes' in the data. This means that before running the code, you will need to reformat this data either manually in the CSV file or overwrite the code to allow for skips in data. The updated list for missing data (in a .txt file) can be found at https://nsidc.org/data/g02186?qt-data_set_tabs=2#qt-data_set_tabs under "Detailed Data Description" subcategory "Data Access"
 
 ## License
