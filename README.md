@@ -16,6 +16,7 @@ See the [LICENSE](LICENSE) for details on permissions and warranties. Please con
 This package requires:
 * Pandas, numpy, matplotlib.pyplot, os, urllib.request, and calendar Python libraries
 * Data from MASIE (ID G02186), Sea Ice Index (ID G02135), Near Real Time CDR (ID G10016) found at the NSIDC website
+* The csv file 'psn25area_v3.csv' found in this repository
 
 ## Installation
 This code can be downloaded and run completely in Python or Jupyter Notebook. After downloading the datasets, run the reformatting notebook first to ensure the NRT CDR data is in a readable format for the main notebook. 
